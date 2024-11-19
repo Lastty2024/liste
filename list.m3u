@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*************** Damisoft TURKEY IPTV ***********",***************** Damisoft TURKEY IPTV ***********
+plugin://plugin.video.youtube/play/?video_id=jKqWodTbEMI
+#EXTINF:-1 tvg-name="24 TV" tvg-id="24 TV" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="TURKEY",24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL D" tvg-logo="https://i.imgur.com/4GUPPb7.png" group-title="TURKEY",KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
