@@ -3,8 +3,8 @@
 plugin://plugin.video.youtube/play/?video_id=jKqWodTbEMI
 #EXTINF:-1 tvg-name="24 TV" tvg-id="24 TV" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="TURKEY",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-#EXTINF:-1 tvg-name="ABB TV" tvg-id="" tvg-logo="https://i.imgur.com/ON4ytPk.jpg" group-title="TURKEY",ABB TV
-plugin://plugin.video.youtube/play/?video_id=EHlXHltFsyE
+#EXTINF:-1 tvg-name="D" tvg-id="" tvg-logo="https://static.kanald.com.tr/images/kanald-logo.png",D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Afyon Turk TV" tvg-logo="https://i.imgur.com/AcxXaK9.png" group-title="TURKEY",Afyon Turk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ahi TV Kirsehir" tvg-logo="https://i.imgur.com/bfxu8Yq.png" group-title="TURKEY",Ahi TV Kirsehir
