@@ -5,8 +5,8 @@ plugin://plugin.video.youtube/play/?video_id=jKqWodTbEMI
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-name="D" tvg-id="" tvg-logo="https://static.kanald.com.tr/images/kanald-logo.png",D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Afyon Turk TV" tvg-logo="https://i.imgur.com/AcxXaK9.png" group-title="TURKEY",Afyon Turk TV
-https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azad TV Azeri" tvg-logo="https://en.wikipedia.org/wiki/Azad_Azerbaijan_TV#/media/File:Azad_Azerbaycan_TV_logosu.png" group-title="AZ",Azad TV
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ahi TV Kirsehir" tvg-logo="https://i.imgur.com/bfxu8Yq.png" group-title="TURKEY",Ahi TV Kirsehir
 http://yayin3.canlitv.com:1935/canlitv/ahitv/chunklist.m3u8
 #EXTINF:-1 tvg-name="Akilli TV" tvg-id="" tvg-logo="https://i.imgur.com/6j0Qcgu.png" group-title="TURKEY",Akilli TV
